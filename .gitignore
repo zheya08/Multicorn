@@ -10,3 +10,5 @@ sql/multicorn--*.sql
 /results
 doc/_build
 doc/dist
+.idea/
+
